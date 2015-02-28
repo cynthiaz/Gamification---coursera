@@ -1,6 +1,5 @@
-## Assignment 1
+## Assignment 1 - Definition
 
-### Project Definition
 You are an employee of Cereals Incorporated, a large manufacturer of breakfast food products.  Your supervisor, Madison County, approaches you because she knows you recently took a course on gamification, which she has heard will revolutionize marketing. She tells you that Cereals Inc. is about to release a new line of ready-to-eat breakfast pastries, and she wants to know whether to use gamification as part of the marketing strategy.  The breakfast pastries will be aimed at the 18-35 age bracket. Surveys show members of this demographic often skip breakfast because they don’t want to eat the typical cereals of their youth, and they are too active to cook their own breakfasts.  Market research indicates that the pastries are likely to appeal more to women than men by a 65%-35% ratio. Cereals Inc. has a 35% share of the overall breakfast food market, but only a 10% share of the fragmented ready-to-eat segment.  
 
 ### Answer
