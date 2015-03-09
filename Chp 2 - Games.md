@@ -16,4 +16,7 @@
  * Learning from game design and psychology, management, marketing, and economics.
  * Appreciating fun
  
+### Game and play, whole and parts
 ![Game and play, whole and parts](http://i.imgur.com/XPjyR3r.png?1)
+
+## What is a Game
